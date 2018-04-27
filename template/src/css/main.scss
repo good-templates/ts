@@ -1,0 +1,20 @@
+/**
+ * Main Page
+ */
+.main {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .babel {
+    width: 60%;
+  }
+  .btn {
+    width: 200px;
+    height: 80px;
+    font-size: 80px;
+  }
+}
